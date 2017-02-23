@@ -35,7 +35,6 @@ p.home {
 main { 
    background-color: #33ccff;
    margin: 0px;
-   border-radius: 5px;
-   padding: 0;
+   padding: 5px;
    font-size: 110%
 }
