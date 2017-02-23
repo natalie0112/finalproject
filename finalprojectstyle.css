@@ -1,7 +1,7 @@
 ul {
    list-style-type: none;
     margin: 0;
-    padding: 10px;
+    padding: 0;
     overflow: hidden;
     background-color: darkred;
 }
@@ -35,6 +35,6 @@ p.home {
 main { 
    background-color: #33ccff;
    margin: 0px;
-   padding: 10px;
+   padding: 0px;
    font-size: 110%
 }
