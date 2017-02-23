@@ -31,3 +31,11 @@ li a:hover {
 p.home {
    font-size: 14px;
 }
+
+main { 
+   background-color: #33ccff;
+   margin: 10px;
+   border-radius: 5px;
+   padding: 20px;
+   font-size: 110%
+}
