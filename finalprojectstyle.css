@@ -56,7 +56,7 @@ aside {
 
 main { 
    background-color: black;
-   margin: 0px;
+   margin-top: 5px; margin-bottom: 5px;
    padding: 5px;
-   font-size: 110%
+   font-size: 110%;
 }
