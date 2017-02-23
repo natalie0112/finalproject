@@ -24,3 +24,10 @@ ul.topnav li a:hover {background-color: black;}
 
 /* Hide the list item that contains the link that should open and close the topnav on small screens */
 ul.topnav li.icon {display: none;}
+
+
+p {
+  color: darkred;
+  font-size: 14px
+    
+}
