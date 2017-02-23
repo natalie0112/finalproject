@@ -26,3 +26,8 @@ li a:hover {
 .active {
   background-color: gray;
 }
+
+
+p.home {
+   font-size: 14px;
+}
