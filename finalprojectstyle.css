@@ -27,7 +27,9 @@ li a:hover {
   background-color: gray;
 }
 
-
+h1 {
+   color: #33ccff
+}
 p.home {
    font-size: 14px;
    color: #33ccff
