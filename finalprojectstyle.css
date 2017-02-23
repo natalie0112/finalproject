@@ -38,6 +38,11 @@ h1 {
    color: #33ccff
 }
 
+h2 {
+   color: #d1d1e0;
+   background-color: black;
+   font-family: Times New Romans, serif
+}
 p.home {
    font-size: 14px;
    color: #33ccff
