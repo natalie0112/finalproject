@@ -24,7 +24,7 @@ li a:hover {
 }
 
 .active {
-  background-color: gray;
+  background-color: darkblue;
 }
 
 .imagecenter {
@@ -37,6 +37,7 @@ li a:hover {
 }
 
 body {
+   background-image: url("");
    background-color: #ececf9;
 }
 
