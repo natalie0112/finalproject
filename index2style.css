@@ -27,6 +27,10 @@ li a:hover {
   background-color: darkgray;
 }
 
+body {
+   background-image: url("background.jpg");
+   background-color: #ececf9;
+}
 
 h1 {
    color: darkred;
