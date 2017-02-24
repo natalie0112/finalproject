@@ -61,3 +61,13 @@ aside {
    font-size: 14px;
    min-width: 150px; max-width: 750px;
 }
+
+footer {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 0px;
+  background-color: darkred;
+  text-align: center;
+}
