@@ -60,7 +60,7 @@ main {
    padding: 5px;
    font-size: 110%;
    color: #ececf9;
-   min-width: 150px;
+   min-width: 150px; max-width: 500px;
 }
 
 footer {
