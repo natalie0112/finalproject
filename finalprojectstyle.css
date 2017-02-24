@@ -27,11 +27,12 @@ li a:hover {
   background-color: gray;
 }
 
-.imagesidebar {
+.imagecenter {
    width: 200px;
-   float: right;
+   margin: 0 auto;
    margin-top: 0px; margin-bottom: 10px;
    clear: right;
+   display: block;
 }
 
 h1 {
