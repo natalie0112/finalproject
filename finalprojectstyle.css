@@ -42,12 +42,16 @@ body {
 }
 
 h1 {
+   color: darkred;
+}
+
+h4 {
    color: #ececf9;
 }
 
 p {
    font-size: 14px;
-   color: #ececf9;
+   color: darkred;
 }
 
 aside {
