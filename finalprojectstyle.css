@@ -48,7 +48,7 @@ aside {
    background-color: black;
    font-family: Times New Romans, serif;
    padding: 20px;
-   min-width: 150px;
+   min-width: 150px; max-width: 500px;
    float: left;
    margin-top: 10px; margin-bottom: 10px;
    clear: right;
@@ -60,7 +60,7 @@ main {
    padding: 5px;
    font-size: 110%;
    color: #ececf9;
-   min-width: 150px; max-width: 300px;
+   min-width: 150px; 
 }
 
 footer {
