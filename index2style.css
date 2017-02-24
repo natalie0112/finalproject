@@ -41,6 +41,11 @@ p {
    color: #ececf9;
 }
 
+p.main {
+   font-size: 18px;
+   color: darkred;
+}
+
 main { 
    background-color: black;
    margin-top: 5px; margin-bottom: 5px;
