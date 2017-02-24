@@ -62,3 +62,11 @@ main {
    color: #ececf9;
    min-width: 150px;
 }
+
+footer {
+   background-color: darkred;
+   list-style-type: none;
+   margin: 0;
+   padding: 0;
+   overflow: hidden;
+}
