@@ -24,17 +24,21 @@ li a:hover {
 }
 
 .active {
-  background-color: gray;
+  background-color: darkblue;
 }
 
 
 h1 {
-   color: #33ccff
+   color: darkred;
+}
+
+h2 {
+   color: darkred;
 }
 
 p {
    font-size: 14px;
-   color: #33ccff
+   color: #ececf9;
 }
 
 main { 
