@@ -65,7 +65,7 @@ aside {
    float: left;
    background-color: darkred;
    padding: 5px;
-   margin-top: 5px; margin-bottom: 90px;
+   margin-top: 5px; margin-bottom: 100px;
    font-size: 14px;
    min-width: 150px; max-width: 750px;
 }
@@ -92,7 +92,7 @@ aside.right {
    background-color: white;
    float: right;
    padding: 5px;
-   margin-top: 5px; margin-bottom: 90px;
+   margin-top: 5px; margin-bottom: 100px;
    min-width: 150px; max-width; 250px;
 }
 
