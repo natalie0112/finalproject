@@ -92,12 +92,12 @@ aside.right {
    background-color: gray;
    float: right;
    padding: 5px;
-   margin-top: 5px; margin-bottom: 130px;
-   min-width: 150px; max-width; 250px;
+   margin-top: 5px; margin-bottom: 120px;
+   min-width: 150px; max-width; 350px;
 }
 
 p {
-   color: green;
+   color: darkred;
    font-size: 14px;
 }
 
