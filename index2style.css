@@ -100,7 +100,6 @@ aside.right {
 p {
    color: darkred;
    font-size: 14px;
-   line-height: 1.0;
 }
 
 cite {
@@ -109,4 +108,8 @@ cite {
 
 .white {
    color: white;
+}
+
+br {
+   line-height: 1.0;
 }
