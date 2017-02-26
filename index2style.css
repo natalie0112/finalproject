@@ -87,3 +87,17 @@ p.footer {
 p.aside {
    color: black;
 }
+
+aside.right {
+   background-color: white;
+   float: right;
+   padding: 5px;
+   margin-top: 5px; margin-bottom: 90px;
+   min-width: 150px; max-width; 250px;
+}
+
+p.right {
+   color: darkblue;
+   font-size: 14px;
+   font-style: italics;
+}
