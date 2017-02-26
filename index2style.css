@@ -90,15 +90,16 @@ p.aside {
 
 aside.right {
    background-color: white;
+   background-image: url("");
    float: right;
    padding: 5px;
    margin-top: 5px; margin-bottom: 130px;
    min-width: 150px; max-width; 250px;
 }
 
-p {
+p.itlaic {
    color: darkblue;
    font-size: 14px;
    font-style: italic;
-   line-height: 20px;
+   line-height: 10px;
 }
