@@ -44,7 +44,7 @@ h4 {
    color: white;
 }
 
-p {
+p.issue {
    font-size: 14px;
    color: #ececf9;
 }
@@ -96,7 +96,7 @@ aside.right {
    min-width: 150px; max-width; 250px;
 }
 
-p.poem {
+p {
    color: darkblue;
    font-size: 14px;
    font-style: italics;
