@@ -82,6 +82,7 @@ footer {
 
 .footer {
    text-align: center;
+   color: black;
 }
 
 p.aside {
@@ -103,4 +104,8 @@ p {
 
 cite {
    color: darkblue;
+}
+
+.white {
+   color: white;
 }
