@@ -89,8 +89,7 @@ p.aside {
 }
 
 aside.right {
-   background-color: white;
-   background-image: url("");
+   background-color: gray;
    float: right;
    padding: 5px;
    margin-top: 5px; margin-bottom: 130px;
