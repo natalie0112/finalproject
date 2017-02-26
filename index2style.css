@@ -80,7 +80,7 @@ footer {
   text-align: center;
 }
 
-p.footer {
+.footer {
    text-align: center;
 }
 
@@ -93,7 +93,7 @@ aside.right {
    float: right;
    padding: 5px;
    margin-top: 5px; margin-bottom: 120px;
-   min-width: 150px; max-width; 350px;
+   min-width: 150px; max-width; 450px;
 }
 
 p {
@@ -101,6 +101,6 @@ p {
    font-size: 14px;
 }
 
-p.cite {
+cite {
    color: darkblue;
 }
