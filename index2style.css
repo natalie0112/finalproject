@@ -37,7 +37,7 @@ h1 {
 }
 
 h4 {
-   color: #ececf9;
+   color: white;
 }
 
 p {
@@ -78,4 +78,8 @@ footer {
 
 p.footer {
    text-align: center;
+}
+
+p.aside {
+   color: black;
 }
