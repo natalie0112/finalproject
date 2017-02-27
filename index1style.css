@@ -62,3 +62,8 @@ footer {
   background-color: darkred;
   text-align: center;
 }
+
+.about {
+   color: white;
+   font-size: 14px;
+}
