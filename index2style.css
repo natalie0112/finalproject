@@ -57,14 +57,14 @@ h4 {
 main { 
    background-color: black;
    margin-top: 5px; margin-bottom: 5px;
-   padding: 5px;
+   padding: 20px;
    font-size: 110%;
 }
 
 aside {
    float: left;
    background-color: darkred;
-   padding: 10px;
+   padding: 20px;
    margin-top: 5px; margin-bottom: 100px;
    font-size: 14px;
    min-width: 150px; max-width: 750px;
@@ -92,7 +92,7 @@ footer {
 aside.right {
    background-color: gray;
    float: right;
-   padding: 10px;
+   padding: 20px;
    margin-top: 5px; margin-bottom: 120px;
    min-width: 150px; max-width; 450px;
 }
